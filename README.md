@@ -1,4 +1,4 @@
-### Hallo, Semua!! 👋
+### Hallo, everyone!! 👋
 
 <!--
 **adeiskandarzulkarnaen/adeiskandarzulkarnaen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Perkenalkan nama saya **Ade Iskandar Zulkarnaen**.\
-Saya seorang **sysadmin** || **backend engineer**
+My name is **Ade Iskandar Zulkarnaen**.\
+i'm a **sysadmin** || **backend engineer**
