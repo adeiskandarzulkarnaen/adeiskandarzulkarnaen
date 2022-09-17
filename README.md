@@ -1,6 +1,7 @@
+<!--
 ### Hallo, everyone!! 👋
 
-<!--
+
 **adeiskandarzulkarnaen/adeiskandarzulkarnaen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -25,19 +26,20 @@ i'm a **sysadmin** || **backend engineer**
 ```javascript
 const adeiskandarzulkarnaen = {
     pronouns: "He" | "Him",
-    askMeAbout: ["web dev", "mobile-dev"],
+    askMeAbout: ["sysadmin", "networking", "web dev", "mobile dev"],
     code: ["Javascript", "Python", "PHP"],
     technologies : {
+        os : [ linux, Windows ],
         networking : ["Mikrotik", "Cisco"],
         webdev : {
             frontend : ["HTML", "CSS", "JavaScript"],
-            backend : NodeJs
+            backend : ["NodeJs", "PHP"]
         },
         mobileApp : {
             native : ["Android Development"]
         },
-        databases : MySQL,
+        databases : "MySQL"
     },
-    currentFocus : "Learing About 3D website",
+    currentFocus : "Learing About 3D website"
 };
 ```
