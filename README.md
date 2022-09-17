@@ -26,10 +26,10 @@ i'm a **sysadmin** || **backend engineer**
 ```javascript
 const adeiskandarzulkarnaen = {
     pronouns: "He" | "Him",
-    askMeAbout: ["sysadmin", "networking", "web dev", "mobile dev"],
+    askMeAbout: ["sysadmin", "network engineer", "web dev", "mobile dev"],
     code: ["Javascript", "Python", "PHP"],
     technologies : {
-        os : [ linux, Windows ],
+        os : [ "linux", "Windows" ],
         networking : ["Mikrotik", "Cisco"],
         webdev : {
             frontend : ["HTML", "CSS", "JavaScript"],
