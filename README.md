@@ -26,8 +26,8 @@ i'm a **sysadmin** || **backend engineer**
 ```javascript
 const adeiskandarzulkarnaen = {
     pronouns: "He" | "Him",
-    askMeAbout: ["sysadmin", "network engineer", "web dev", "mobile dev"],
-    code: ["Javascript", "Python", "PHP"],
+    askMeAbout: ["sysadmin", "network engineer", "web dev", "computer science student"],
+    code: ["Javascript", "PHP", "Python",  "Kotlin" ],
     technologies : {
         os : [ "linux", "Windows" ],
         networking : ["Mikrotik", "Cisco"],
@@ -35,10 +35,7 @@ const adeiskandarzulkarnaen = {
             frontend : ["HTML", "CSS", "JavaScript"],
             backend : ["NodeJs", "PHP"]
         },
-        databases : "MySQL",
-        mobileApp : {
-            native : ["Android Development"]
-        },
+        databases : "MySQL"
     },
     currentFocus : "Learing About 3D website"
 };
