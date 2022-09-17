@@ -13,7 +13,31 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 My name is **Ade Iskandar Zulkarnaen**.\
 i'm a **sysadmin** || **backend engineer**
+
+-->
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const adeiskandarzulkarnaen = {
+    pronouns: "He" | "Him",
+    askMeAbout: ["web dev", "mobile-dev"],
+    code: ["Javascript", "Python", "PHP"],
+    technologies : {
+        networking : ["Mikrotik", "Cisco"],
+        webdev : {
+            frontend : ["HTML", "CSS", "JavaScript"],
+            backend : NodeJs
+        },
+        mobileApp : {
+            native : ["Android Development"]
+        },
+        databases : MySQL,
+    },
+    currentFocus : "Learing About 3D website",
+};
+```
