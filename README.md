@@ -35,10 +35,10 @@ const adeiskandarzulkarnaen = {
             frontend : ["HTML", "CSS", "JavaScript"],
             backend : ["NodeJs", "PHP"]
         },
+        databases : "MySQL",
         mobileApp : {
             native : ["Android Development"]
         },
-        databases : "MySQL"
     },
     currentFocus : "Learing About 3D website"
 };
