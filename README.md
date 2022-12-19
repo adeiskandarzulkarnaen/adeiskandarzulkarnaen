@@ -26,8 +26,8 @@ i'm a **sysadmin** || **backend engineer**
 ```javascript
 const adeiskandarzulkarnaen = {
     pronouns: "He" | "Him",
-    askMeAbout: ["DevOps engineer", "Computer Science student"],
-    code: ["Javascript", "PHP", "Python",  "Kotlin" ],
+    askMeAbout: ["DevOps Engineer", "Computer Science student"],
+    code: ["Javascript", "PHP", "Python" ],
     technologies : {
         os : [ "Linux", "Windows" ],
         networking : ["Mikrotik", "Cisco"],
