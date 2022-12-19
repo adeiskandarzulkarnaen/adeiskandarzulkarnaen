@@ -26,17 +26,26 @@ i'm a **sysadmin** || **backend engineer**
 ```javascript
 const adeiskandarzulkarnaen = {
     pronouns: "He" | "Him",
-    askMeAbout: ["sysadmin", "network engineer", "web dev", "computer science student"],
+    askMeAbout: ["DevOps engineer", "Computer Science student"],
     code: ["Javascript", "PHP", "Python",  "Kotlin" ],
     technologies : {
-        os : [ "linux", "Windows" ],
+        os : [ "Linux", "Windows" ],
         networking : ["Mikrotik", "Cisco"],
         webdev : {
-            frontend : ["HTML", "CSS", "JavaScript"],
-            backend : ["NodeJs", "PHP"]
+            frontend : {
+                         language: ["HTML", "CSS", "JavaScript"],
+                         framework: ["bootstrap"],
+                         tech: ["webpack"]
+                       },
+            backend : {
+                         language: ["JavaScript", "PHP"],
+                         framework: ["ExpressJs", "Hapi"],
+                         tech: ["NodeJs"]
+                       },
         },
-        databases : "MySQL"
+        databases : ["MySQL", "PostgreSQL", "MongoDB"],
+        cloud : ["AWS","IdCloudHost"]
     },
-    currentFocus : "Learing About 3D website"
+    currentFocus : "Learing About Machine Learning"
 };
 ```
