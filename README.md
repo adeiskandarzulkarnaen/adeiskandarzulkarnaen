@@ -44,7 +44,7 @@ const adeiskandarzulkarnaen = {
                        },
         },
         databases : ["MySQL", "PostgreSQL", "MongoDB"],
-        cloud : ["AWS","IdCloudHost"]
+        cloud : ["AWS", "IdCloudHost"]
     },
     currentFocus : "Learing About Machine Learning"
 };
