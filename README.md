@@ -12,7 +12,7 @@ const adeiskandarzulkarnaen = {
             misc: ["webpack", "babel"]
         },
         backend : {
-            language: ["JavaScript", "Python"],
+            language: ["JavaScript", "TypeScript", "Python"],
             framework: ["ExpressJs", "NestJs", "HapiJs", "Flask"],
             misc: ["NodeJs", "redis", "rabbitmq", "jest"]
         },
