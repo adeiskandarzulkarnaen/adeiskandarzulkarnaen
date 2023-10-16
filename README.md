@@ -3,8 +3,8 @@
 ```javascript
 const adeiskandarzulkarnaen = {
     pronouns: "He" || "Him",
-    askMeAbout: ["BackEnd Developer", "Computer Science student"],
-    code: ["Javascript", "Python", "Dart"],
+    askMeAbout: ["BackEnd Developer", "Computer Science Student"],
+    code: ["Javascript", "Python", "Dart", "C++"],
     technologies : {
         frontend : {
             language: ["HTML", "CSS", "JavaScript"],
@@ -13,16 +13,25 @@ const adeiskandarzulkarnaen = {
         },
         backend : {
             language: ["JavaScript", "Python"],
-            framework: ["HapiJs", "ExpressJs", "Flask"],
+            framework: ["ExpressJs", "NestJs", "HapiJs", "Flask"],
             misc: ["NodeJs", "redis", "rabbitmq", "jest"]
+        },
+        machineLearning : {
+            language: ["python", "Javascript"],
+            framework: ["TensorFlow", "TensorFlowJs"],
+            misc: ["Keras", "Tableau"]
         },
         mobile: {
             languge: ["dart"],
             framework: ["Flutter"],
         },
+        IoT : {
+            language: ["C++"],
+            misc: ["Arduino"],
+        },
         databases : ["PostgreSQL", "MySQL", "MongoDB"],
-        cloud : ["AWS", "IdCloudHost"]
+        cloud : ["GoogleCloud", "AWS", "IdCloudHost"]
     },
-    currentFocus : "Learing About TensorFlow"
+    currentFocus : "Learn Java language for backend development"
 };
 ```
