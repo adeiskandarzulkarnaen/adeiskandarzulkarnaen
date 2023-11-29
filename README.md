@@ -8,12 +8,12 @@ const adeiskandarzulkarnaen = {
     technologies : {
         frontend : {
             language: ["HTML", "CSS", "JavaScript"],
-            framework: ["bootstrap"],
-            misc: ["webpack", "babel"]
+            framework: ["ReactJs"],
+            misc: ["webpack", "babel", "bootstrap"]
         },
         backend : {
-            language: ["JavaScript", "TypeScript", "Python"],
-            framework: ["ExpressJs", "NestJs", "HapiJs", "Flask"],
+            language: ["JavaScript", "TypeScript", "Python", "PHP"],
+            framework: ["ExpressJs", "NestJs", "HapiJs", "Flask", "Laravel"],
             misc: ["NodeJs", "redis", "rabbitmq", "jest"]
         },
         machineLearning : {
