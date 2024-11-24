@@ -13,7 +13,7 @@ const adeiskandarzulkarnaen = {
         },
         backend : {
             language: ["TypeScript", "PHP", "Python"],
-            framework: ["ExpressJs", "HapiJs", "HanoJs", "NestJs", "Laravel", "Flask"],
+            framework: ["ExpressJs", "HapiJs", "HonoJs", "NestJs", "Laravel", "Flask"],
             runtime: ["NodeJs", "BunJs"],
             misc: ["Jest", "PrismaORM", "SequelizeORM", "BabelJs", "Pest PHP"]
         },
