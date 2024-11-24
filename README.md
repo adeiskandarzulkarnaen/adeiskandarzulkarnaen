@@ -7,7 +7,7 @@ const adeiskandarzulkarnaen = {
     code: ["TypeScript", "PHP", "Dart", "Python"],
     technologies : {
         frontend : {
-            language: ["Javascript", "Dart"]
+            language: ["Javascript", "Dart"],
             framework: ["NextJs", "Flutter"],
             misc: ["webpack", "babel", "bootstrap", "tailwind"]
         },
