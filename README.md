@@ -4,34 +4,24 @@
 const adeiskandarzulkarnaen = {
     pronouns: "He" || "Him",
     askMeAbout: ["BackEnd Developer", "Computer Science Student"],
-    code: ["Javascript", "Python", "Dart", "C++"],
+    code: ["TypeScript", "PHP", "Dart", "Python"],
     technologies : {
         frontend : {
-            language: ["HTML", "CSS", "JavaScript"],
-            framework: ["ReactJs"],
-            misc: ["webpack", "babel", "bootstrap"]
+            language: ["Javascript", "Dart"]
+            framework: ["NextJs", "Flutter"],
+            misc: ["webpack", "babel", "bootstrap", "tailwind"]
         },
         backend : {
-            language: ["JavaScript", "TypeScript", "Python", "PHP"],
-            framework: ["ExpressJs", "NestJs", "HapiJs", "Flask", "Laravel"],
-            misc: ["NodeJs", "redis", "rabbitmq", "jest"]
+            language: ["TypeScript", "PHP", "Python"],
+            framework: ["ExpressJs", "HapiJs", "HanoJs", "NestJs", "Laravel", "Flask"],
+            runtime: ["NodeJs", "BunJs"],
+            misc: ["Jest", "PrismaORM", "SequelizeORM", "BabelJs", "Pest PHP"]
         },
-        machineLearning : {
-            language: ["python", "Javascript"],
-            framework: ["TensorFlow", "TensorFlowJs"],
-            misc: ["Keras", "Tableau"]
-        },
-        mobile: {
-            languge: ["dart"],
-            framework: ["Flutter"],
-        },
-        IoT : {
-            language: ["C++"],
-            misc: ["Arduino"],
-        },
-        databases : ["PostgreSQL", "MySQL", "MongoDB"],
-        cloud : ["GoogleCloud", "AWS", "IdCloudHost"]
+        databases : ["PostgreSQL", "MySQL", "MongoDB", "Redis"],
+        devops: ["Docker", "Github Action"],
+        cloud : ["GoogleCloud", "IdCloudHost", "NiagaHoster"],
+        misc : ["rabbitmq"]
     },
-    currentFocus : "Learn Java language for backend development"
+    currentFocus : "Learn NextJs framework for frontend web development"
 };
 ```
