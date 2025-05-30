@@ -3,7 +3,7 @@
 ```javascript
 const adeiskandarzulkarnaen = {
     pronouns: "He" || "Him",
-    askMeAbout: ["BackEnd Developer", "Computer Science Student"],
+    askMeAbout: ["Software Engineer", "AI Enthusiast"],
     code: ["TypeScript", "PHP", "Dart", "Python"],
     technologies : {
         frontend : {
@@ -13,13 +13,13 @@ const adeiskandarzulkarnaen = {
         },
         backend : {
             language: ["TypeScript", "PHP", "Python"],
-            framework: ["ExpressJs", "HapiJs", "HonoJs", "NestJs", "Laravel", "Flask"],
+            framework: ["NestJs", "ExpressJs", "HonoJs", "HapiJs", "Laravel", "Flask"],
             runtime: ["NodeJs", "BunJs"],
             misc: ["Jest", "PrismaORM", "SequelizeORM", "BabelJs", "Pest PHP"]
         },
         databases : ["PostgreSQL", "MySQL", "MongoDB", "Redis"],
         devops: ["Docker", "Github Action"],
-        cloud : ["GoogleCloud", "IdCloudHost", "NiagaHoster"],
+        cloud : ["GoogleCloud"],
         misc : ["rabbitmq"]
     },
     currentFocus : "Learn NextJs framework for frontend web development"
